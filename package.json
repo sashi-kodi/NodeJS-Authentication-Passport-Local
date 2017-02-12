@@ -8,7 +8,7 @@
     "start": "node server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "sashikodi",
   "license": "ISC",
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
